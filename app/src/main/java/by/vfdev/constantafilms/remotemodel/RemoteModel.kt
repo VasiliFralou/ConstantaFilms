@@ -1,6 +1,5 @@
 package by.vfdev.constantafilms.remotemodel
 
-import android.util.Log
 import by.vfdev.constantafilms.api.ApiFilms
 import java.lang.Exception
 import javax.inject.Inject

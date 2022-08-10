@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/ASProject/ConstantaFilms/app/src/main/res/layout/activity_main.xml" value="0.18958333333333333" />
-        <entry key="..\:/ASProject/ConstantaFilms/app/src/main/res/layout/fragment_films.xml" value="0.1" />
+        <entry key="..\:/ASProject/ConstantaFilms/app/src/main/res/layout/activity_main.xml" value="0.35625" />
+        <entry key="..\:/ASProject/ConstantaFilms/app/src/main/res/layout/fragment_films.xml" value="0.36822916666666666" />
         <entry key="..\:/ASProject/ConstantaFilms/app/src/main/res/layout/item_layout_films.xml" value="0.36822916666666666" />
+        <entry key="..\:/ASProject/ConstantaFilms/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.198" />
       </map>
     </option>
   </component>

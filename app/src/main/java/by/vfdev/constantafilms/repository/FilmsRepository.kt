@@ -1,6 +1,5 @@
 package by.vfdev.constantafilms.repository
 
-import android.util.Log
 import by.vfdev.constantafilms.remotemodel.Films
 import by.vfdev.constantafilms.remotemodel.RemoteModel
 import kotlinx.coroutines.Dispatchers
